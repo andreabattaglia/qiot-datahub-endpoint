@@ -36,15 +36,14 @@
         </dependencies>
     </dependencyManagement>
     <dependencies>
-        <!-- AMQP Endpoint Client -->
-        <dependency>
-            <groupId>io.quarkus</groupId>
-            <artifactId>quarkus-smallrye-reactive-messaging-amqp</artifactId>
-        </dependency>
         <!-- MQTT Endpoint Client -->
         <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-smallrye-reactive-messaging-mqtt</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-smallrye-reactive-messaging-kafka</artifactId>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
