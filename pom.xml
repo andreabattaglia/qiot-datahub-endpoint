@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.redhat.qiot.datahub.endpoint</groupId>
   <artifactId>qiot-datahub-endpoint</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0.GA</version>
   <packaging>pom</packaging>
   <modules>
       <module>qiot-datahub-endpoint-amqp</module>
