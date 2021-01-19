@@ -1,4 +1,4 @@
-package com.redhat.qiot.datahub.endpoint.util;
+package org.qiot.covid19.datahub.endpoint.util;
 
 
 import javax.enterprise.context.ApplicationScoped;
